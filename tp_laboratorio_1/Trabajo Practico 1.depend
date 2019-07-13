@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1536025630 source:c:\users\bruno\desktop\trabajo-practico-1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+	"Biblioteca.c"
+
+1535786741 source:c:\users\alumno\desktop\asd\trabajo-practico-1\trabajo practico 1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1535782667 c:\users\alumno\desktop\asd\trabajo-practico-1\trabajo practico 1\biblioteca.h
+
+1535786916 source:c:\users\alumno\desktop\asd\trabajo-practico-1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536019568 c:\users\bruno\desktop\trabajo-practico-1\trabajo practico 1\biblioteca.h
+
+1536019568 c:\users\bruno\desktop\trabajo-practico-1\trabajo practico 1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1536064553 source:c:\users\alumno\desktop\trabajo-practico-1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1536064226 c:\users\alumno\desktop\trabajo-practico-1\trabajo practico 1\biblioteca.h
+
+1536061699 c:\users\alumno\desktop\trabajo-practico-1\trabajo practico 1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1536066801 source:c:\users\alumno\desktop\trabajo-practico-1\trabajo practico 1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1536072567 source:c:\users\alumno\desktop\tp_laboratorio_1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1536072567 c:\users\alumno\desktop\tp_laboratorio_1\trabajo practico 1\biblioteca.h
+
+1536072567 source:c:\users\alumno\desktop\tp_laboratorio_1\trabajo practico 1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1536111398 source:c:\users\bruno\desktop\tp_laboratorio_1\trabajo practico 1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1536111398 c:\users\bruno\desktop\tp_laboratorio_1\trabajo practico 1\biblioteca.h
+
+1536112178 source:c:\users\bruno\desktop\tp_laboratorio_1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
